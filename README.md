@@ -1,4 +1,4 @@
-Sasha AI
+##Sasha AI
 
 Sasha AI is an intelligent Python-powered virtual assistant designed to automate desktop tasks using voice commands, wake-word activation, and real-time intent recognition. The assistant remains inactive until a wake word is detected, creating a more natural and interactive AI experience.
 
